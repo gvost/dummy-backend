@@ -62,7 +62,9 @@ const clinicianData = [{
 
 const userData = {
     userName: 'testUser',
-    password: 'password'
+    password: 'password',
+    name: 'Kim, Ki H MD',
+    id: 'xf43JJ'
 };
 
 const patientData = [{
